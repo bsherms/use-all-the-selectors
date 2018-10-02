@@ -18,6 +18,10 @@ nav ul {
   background-color: #eee8d5;
 }
 
+.wrapper > .dfn {
+  background-color: #b58900;
+}
+
 #contents {
   color: #93a1a1;
 }
