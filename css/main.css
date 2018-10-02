@@ -37,3 +37,7 @@ nav ul {
 #types {
   color: #93a1a1;
 }
+
+p + strong {
+  color: #fff;
+}
