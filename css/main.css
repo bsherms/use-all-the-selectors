@@ -57,3 +57,15 @@ ol:first-child {
 ol:last-child {
   color: #2aa198;
 }
+
+.types > li:nth-child(odd) {
+  background-color: #657ba3;
+}
+
+.types > li:nth-child(even) {
+  background-color: #586e75;
+}
+
+.types > li:nth-of-type(3) {
+  background-color: #d04b16;
+}
