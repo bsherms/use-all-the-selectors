@@ -45,3 +45,15 @@ p + strong {
 a:not(.no-highlight){
   background-color: #2694d8;
 }
+
+[rel="external"] {
+  background-color: #2694d8;
+}
+
+ol:first-child {
+  color: #719e47;
+}
+
+ol:last-child {
+  color: #2aa198;
+}
